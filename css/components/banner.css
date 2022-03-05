@@ -1,0 +1,13 @@
+.banner {
+  background-image: url('../../images/dior-g4afade79f_1280.jpg');
+  background-position: center;
+  background-size: cover;
+  height: 700px;
+}
+
+.banner h1 {
+  padding-top: 250px;
+  padding-bottom: 25px;
+  color: white;
+  text-align: left;
+}
